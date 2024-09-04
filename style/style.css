@@ -405,7 +405,7 @@ h4 {
 }
 
 .sky__image-container {
-  background-image: url(/images/sky.png);
+  background-image: url("../images/sky.png");
 }
 
 .dribble {
